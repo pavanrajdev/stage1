@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 hello guys i am pavan 
+=======
+100 yards = 10000
+200 yards = 20000
+300 yards = 3000
+>>>>>>> Stashed changes
